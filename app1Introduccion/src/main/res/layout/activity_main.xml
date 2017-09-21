@@ -12,6 +12,6 @@
         android:layout_height="wrap_content"
         android:text="Hello World!"
         android:textColor="@android:color/black"
-        android:textSize="30sp" />
+        android:textSize="30sp"/>
 
 </ScrollView>
