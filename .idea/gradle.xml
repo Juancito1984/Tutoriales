@@ -9,6 +9,8 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app1Introduccion" />
+            <option value="$PROJECT_DIR$/app2ListView" />
+            <option value="$PROJECT_DIR$/app3ListasPersonalizadas" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
